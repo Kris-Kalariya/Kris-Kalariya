@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kris Kalariya
 
-### 🚀 Python Developer | AI/ML Enthusiast | Algorithmic Trading | Backend Development
+### 🚀 Python Developer | AI/ML & Data | Algorithmic Trading | Backend Development
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kris-Kalariya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
