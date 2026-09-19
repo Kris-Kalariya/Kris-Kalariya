@@ -8,14 +8,6 @@
 
 <br>
 
-<a href="https://github.com/Kris-Kalariya">
-<img src="https://komarev.com/ghpvc/?username=Kris-Kalariya&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Kris-Kalariya?tab=followers">
-<img src="https://img.shields.io/github/followers/Kris-Kalariya?label=Followers&style=for-the-badge&color=181717" />
-</a>
-
 </div>
 
 ---
@@ -224,28 +216,6 @@ I'm open to collaborating on projects involving:
 <img src="https://streak-stats.demolab.com?user=Kris-Kalariya&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kris-Kalariya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kris-Kalariya/Kris-Kalariya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
-> **Note:** The contribution snake requires a GitHub Action to generate the SVG in your profile repository.
 
 ---
 
